@@ -1,4 +1,4 @@
-Oding project web101 - calculator 
+Odin project web101 - calculator 
 
 Tried to build the calculator using regex, code is probably terrible, css definitely is
 
